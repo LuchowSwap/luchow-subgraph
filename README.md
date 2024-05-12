@@ -2,7 +2,7 @@
 TheGraph exposes a GraphQL endpoint to query the events and entities within the Binance Smart Chain and LuchowSwap ecosystem.  
 Currently, there are multiple subgraphs, but additional subgraphs can be added to this repository, following the current architecture.  
 We are using TheGraph service and our own Graph Node for specific subgraph. In the future, we will launch the all subgraphs in our Graph Node 
-to increase the speed and flexiable.  
+to increase the speed.  
 
 ### Subgraphs
 1. **[Blocks](https://thegraph.com/legacy-explorer/subgraph/pancakeswap/blocks)**: Tracks all blocks on Binance Smart Chain.  
